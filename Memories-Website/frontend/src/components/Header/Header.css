@@ -1,0 +1,14 @@
+.header {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  height: 60px;
+  background: black;
+  padding-top: 10px;
+  z-index: 10;
+  top: 0;
+}
+.header h1 {
+  margin: auto;
+  color: deepskyblue;
+}
